@@ -16,4 +16,9 @@ public class ContactTest {
        public void deletecontact() {
     	   System.out.println("deletecontact");
        }
+       @Test(groups="regionl")
+       public void searchcontact() {
+    	   System.out.println("deletecontact");
+    	   
+       }
 }
