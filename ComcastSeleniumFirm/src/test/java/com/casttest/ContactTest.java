@@ -21,4 +21,9 @@ public class ContactTest {
     	   System.out.println("deletecontact");
     	   
        }
+       @Test(groups="regionl")
+       public void scontact() {
+    	   System.out.println("deletecontact");
+    	   
+}
 }
